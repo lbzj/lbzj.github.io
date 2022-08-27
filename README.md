@@ -71,11 +71,11 @@
 
 ![注释](https://github.com/lbzj/lbzj.github.io/raw/main/img/%E6%8B%86%E5%88%86.gif)
 
-## 部分快捷键
-
-**Ctrl + Shift + F**  繁简切换
-**Ctrl + Shift + G**  emoji 切换
-**Ctrl + Shift + H**  显示拆分
-**Ctrl + Shift + J**  显示编码及拼音
-**Ctrl + Shift + K**  单字/词开关
-更多功能键入 help 查看
+## 部分快捷键  
+  
+**Ctrl + Shift + F**  繁简切换  
+**Ctrl + Shift + G**  emoji 切换  
+**Ctrl + Shift + H**  显示拆分  
+**Ctrl + Shift + J**  显示编码及拼音  
+**Ctrl + Shift + K**  单字/词开关  
+更多功能键入 help 查看  
